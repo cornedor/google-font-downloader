@@ -1,0 +1,15 @@
+{
+  "name": "google-font-downloader",
+  "version": "0.0.0",
+  "module": "index.mjs",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "undici": "^6.19.3"
+  }
+}
